@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LX/SL3L7H3K1P9CZE7QGXE7SK.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/FirstPerson/Blueprints/BP_Wall_Runnable.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/XQ/3JDIG3V66YPCCU15R7LKCL.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/EW/GTV84MCIDDVXTEE1PV8LUB.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RS/XK5GRJT85O01CHVOGN1W6T.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IJ/QKZSK2VZ5T61WHUADDHWL7.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/86/PP73KYS92KQCS3V8ZP25UQ.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/11/Z4Z1JBRU34JOM8UPTMOPH7.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TH/WTE2D08DWVALA8J8H5XXG9.uasset",
+				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/ME/VGFJFSTKIW5RYZ53R3CA1L.uasset"
+			]
+		}
+	]
+}
