@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/BenWa/Documents/Game Projects/LucioGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/Shavin/Documents/Unreal Projects/LucioGame/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
